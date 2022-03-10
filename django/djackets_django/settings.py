@@ -149,9 +149,9 @@ MEDIA_ROOT = BASE_DIR / 'media/'
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 #da se radi o gmailu
-EMAIL_HOST_USER = 'MatijaTestiranje22@gmail.com'
+EMAIL_HOST_USER = 'tuideemailskojegsaljes'
 #tko ce slati mail(ja-moj mail)
-EMAIL_HOST_PASSWORD = 'test2222'
+EMAIL_HOST_PASSWORD = 'tuidepassword'
 #moj password aliako zelim to u developmentu moram sakriti
 EMAIL_PORT = 587
 #google mail koristi ovaj mail
